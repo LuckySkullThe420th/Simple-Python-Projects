@@ -17,3 +17,8 @@ Some projects I've made in the last year while I've been learning Python. I have
 
 
 -Magic Number: Could be expanded. 
+
+
+-Calculator: Just something I wanted to see myself do in Python.
+
+Feel free to fork and commit to any of these projects, would love to see some of them expanded(probably will do it myself with more experience).
