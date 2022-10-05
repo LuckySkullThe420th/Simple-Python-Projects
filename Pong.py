@@ -73,6 +73,7 @@ class Paddle:
         self.y = self.original_y
 
 #Settings Class
+#never finished
 class Settings:
     def __init__(self, win, keys):
         self.win = win
