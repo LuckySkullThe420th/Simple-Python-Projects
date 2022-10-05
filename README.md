@@ -8,6 +8,8 @@ Some projects I've made in the last year while I've been learning Python. I have
           Settings so you can change some things like the speed the ball is moving. I never got around to it...
     
     
-*Random-Number-Game- A simple guessing game. 
+*Random-Number-Guesser- A simple guessing game. 
+
+*Rock-Paper-Scissors- I really enjoyed this one, for as simple a game it is to program. 
 
 *
