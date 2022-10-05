@@ -16,4 +16,4 @@ Some projects I've made in the last year while I've been learning Python. I have
 
 
 
--
+-Magic Number: Could be expanded. 
